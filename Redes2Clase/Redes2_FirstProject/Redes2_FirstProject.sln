@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Redes2_FirstProject", "Redes2_FirstProject\Redes2_FirstProject.vcxproj", "{BDD4E080-2B2B-4188-87C3-B573E027D690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Debug|x64.ActiveCfg = Debug|x64
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Debug|x64.Build.0 = Debug|x64
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Debug|x86.Build.0 = Debug|Win32
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Release|x64.ActiveCfg = Release|x64
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Release|x64.Build.0 = Release|x64
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Release|x86.ActiveCfg = Release|Win32
+		{BDD4E080-2B2B-4188-87C3-B573E027D690}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A41879F8-B3C3-4ACD-9596-F30023A060DE}
+	EndGlobalSection
+EndGlobal
